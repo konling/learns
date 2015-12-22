@@ -31,7 +31,7 @@ key|Description
 ⌘ ⌥ L  | Reformat code 
 ^ ⌥ O  | Optimize imports
 ⌃ ⌥ I | Auto-indent line(s)
-？？？ ,？？？？  | Indent/unindent selected lines
+⇥  ,⇧ ⇥   | Indent/unindent selected lines
 ⌘ X  | Cut current line or selected block to clipboard
 ⌘ C  | Copy current line or selected block to clipboard
 ⌘ V  | Paste from clipboard
